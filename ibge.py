@@ -42,6 +42,7 @@ def buscar_dados_muni(id):
         return None
 
 
+#Como proteger de erros de valores inválidos digitados pelo usuário?
 
 def main():
     console.print("[bold cyan]Carregando estados...[/bold cyan]")
